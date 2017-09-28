@@ -52,4 +52,5 @@ References
 
 
 [1]Castilho, Sheila; Simon, Desline; Afli, Haithem; and Way, Andy. "A Bilingual Corpus of Sarcastic Tweets" (LREC 2018(FORTHCOMING))
+
 [2]Peled, Lotem; and  Reichart, Roi. "Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation." (ACL 2017).
