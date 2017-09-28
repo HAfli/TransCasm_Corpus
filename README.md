@@ -30,8 +30,7 @@ Bilingual Corpus of Sarcastic Tweets
 
 
 - Corpus Statistics:
-	- number of unique tweets: xxx ( I think it's around 1k?)
-	- total number of lines: xxx
+	- total number of lines: 1830
 	- average number of interpretations translated: 2.4 (it varies from 1-3)
 
 -Topics (including):
