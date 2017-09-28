@@ -1,4 +1,4 @@
-# HAfli-TransCasm_Corpus
+#TransCasm_Corpus
 
 Bilingual Corpus of Sarcastic Tweets
 
