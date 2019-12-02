@@ -30,7 +30,7 @@ Bilingual Corpus of Sarcastic Tweets
 
 
 - Corpus Statistics:
-	- total number of lines: 1830
+	- total number of lines: 1831
 	- average number of interpretations translated: 2.4 (it varies from 1-3)
 
 -Topics (including):
@@ -46,11 +46,10 @@ Bilingual Corpus of Sarcastic Tweets
 
 Citation
 
-If you use this corpus, please cite paper [1] below.
+
 
 References
 
 
-[1]Castilho, Sheila; Simon, Desline; Afli, Haithem; and Way, Andy. "A Bilingual Corpus of Sarcastic Tweets" (LREC 2018(FORTHCOMING))
 
 [2]Peled, Lotem; and  Reichart, Roi. "Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation." (ACL 2017).
